@@ -1,0 +1,1411 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/test/java/com/tujia/tns/baseinfo/core/service/HouseSearchRankServiceTest.java" timestamp="1503643638924">
+        <mark key="'" line="26" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/data/house_audit_time.py" timestamp="1504008163517">
+        <mark key="'" line="152" column="11" />
+        <mark key="[" line="147" column="40" />
+        <mark key="]" line="147" column="41" />
+        <mark key="." line="147" column="41" />
+        <mark key="^" line="154" column="26" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java" timestamp="1502877554380">
+        <mark key="'" line="107" column="39" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/constants/RedisConstants.java" timestamp="1502356487219">
+        <mark key="'" line="103" column="49" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/pom.xml" timestamp="1503310089144">
+        <mark key="'" line="336" column="32" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_crm/crm-web/src/main/resources/bean/crm-web-servlet.xml" timestamp="1502455730035">
+        <mark key="'" line="31" column="67" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/db-sql/init_baseinfo.sql" timestamp="1502102884774">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="44" column="40" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/quopri_codec.py" timestamp="1502260956214">
+        <mark key="'" line="25" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspaceSet/main/src/main/java/com/mxuan/example/mthread/SynchronizedTest.java" timestamp="1502209755226">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-service/src/main/resources/mapper/master/HouseSearchMasterDao.xml" timestamp="1502112058082">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="80" column="18" />
+        <mark key="]" line="81" column="17" />
+        <mark key="." line="81" column="17" />
+        <mark key="^" line="81" column="17" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/HouseUnitSlaveDao.xml" timestamp="1503049492160">
+        <mark key="'" line="69" column="23" />
+        <mark key="[" line="131" column="12" />
+        <mark key="]" line="131" column="12" />
+        <mark key="." line="131" column="12" />
+        <mark key="^" line="109" column="15" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1502877870599">
+        <mark key="'" line="903" column="12" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_crm/crm-controller/src/main/java/com/tujia/crm/web/controller/CityController.java" timestamp="1503320984814">
+        <mark key="'" line="143" column="23" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/web/context/request/RequestContextHolder.class" timestamp="1503301826325">
+        <mark key="'" line="43" column="80" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-web/src/main/webapp/WEB-INF/springmvc-servlet.xml" timestamp="1501740891884">
+        <mark key="'" line="12" column="52" />
+        <mark key="[" line="12" column="60" />
+        <mark key="]" line="12" column="60" />
+        <mark key="." line="12" column="60" />
+        <mark key="^" line="12" column="70" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseUnit.java" timestamp="1503656907657">
+        <mark key="'" line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/dao/master/HouseUnitMasterDao.java" timestamp="1502975080499">
+        <mark key="'" line="11" column="43" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+      </file>
+      <file name="/IntelliJ Default" timestamp="1503052384627">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_merchant/merchant-vo/src/main/java/com/tujia/merchant/vo/web/unit/HouseImageList.java" timestamp="1504002086822">
+        <mark key="'" line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_crm/crm-app/src/main/resources/bean/crm-app-bean.xml" timestamp="1503571121297">
+        <mark key="'" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/service/impl/HouseUnitServiceImpl.java" timestamp="1503656200264">
+        <mark key="'" line="312" column="26" />
+        <mark key="[" line="302" column="77" />
+        <mark key="]" line="302" column="77" />
+        <mark key="^" line="302" column="77" />
+        <mark key="." line="302" column="77" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/baseinfo/model/house/ScenicSpot.java" timestamp="1501842410616">
+        <mark key="'" line="34" column="18" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/money/Currency.java" timestamp="1503470940712">
+        <mark key="'" line="208" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/xml/XmlReaderContext.class" timestamp="1503909065780">
+        <mark key="'" line="51" column="17" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/resources/spring-config.xml" timestamp="1503475070523">
+        <mark key="'" line="52" column="24" />
+        <mark key="[" line="26" column="62" />
+        <mark key="]" line="26" column="63" />
+        <mark key="." line="26" column="63" />
+        <mark key="^" line="12" column="64" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mybatis-slave-config.xml" timestamp="1503050591023">
+        <mark key="'" line="19" column="41" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="42" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="68" column="55" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_framework/tujia-framework-util/src/test/java/com/tujia/framework/utility/ReflectionUtilsTest.java" timestamp="1503475885733">
+        <mark key="'" line="90" column="17" />
+        <mark key="[" line="174" column="31" />
+        <mark key="]" line="174" column="31" />
+        <mark key="." line="174" column="31" />
+        <mark key="^" line="174" column="31" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-service/src/main/java/com/tujia/baseinfo/service/impl/HouseServiceImpl.java" timestamp="1502102103583">
+        <mark key="'" line="66" column="5" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/service/impl/LandlordServiceImpl.java" timestamp="1502359187614">
+        <mark key="'" line="25" column="7" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/webservice/tujia-framework-webservice/2.2.0-SNAPSHOT/tujia-framework-webservice-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/web/WebServiceHelper.java" timestamp="1503310579727">
+        <mark key="'" line="42" column="103" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_framework/tujia-framework-util/pom.xml" timestamp="1503040807280">
+        <mark key="'" line="30" column="16" />
+        <mark key="[" line="103" column="45" />
+        <mark key="]" line="104" column="25" />
+        <mark key="." line="104" column="25" />
+        <mark key="^" line="104" column="25" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-service/src/main/resources/mybatis-slave-config.xml" timestamp="1502103050171">
+        <mark key="'" line="21" column="70" />
+        <mark key="[" line="25" column="60" />
+        <mark key="]" line="25" column="74" />
+        <mark key="." line="25" column="74" />
+        <mark key="^" line="25" column="74" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/content/UnitFacilities.java" timestamp="1503571770490">
+        <mark key="'" line="100" column="36" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="6" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT.jar!/com/tujia/framework/utility/ReflectionUtils.class" timestamp="1503039420151">
+        <mark key="'" line="256" column="54" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/HotelApiServiceImpl.java" timestamp="1502360086622">
+        <mark key="'" line="25" column="6" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/math/BigInteger.java" timestamp="1503222278721">
+        <mark key="'" line="416" column="63" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-service/src/main/java/com/tujia/baseinfo/service/impl/HouseListServiceImpl.java" timestamp="1502091073350">
+        <mark key="'" line="12" column="60" />
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="14" />
+        <mark key="^" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+      </file>
+      <file name="/My" timestamp="1503052384650">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/HouseChargeApiServiceImpl.java" timestamp="1502361344637">
+        <mark key="'" line="26" column="32" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/Util/HouseUnit/HouseUnitUtils.java" timestamp="1504002058577">
+        <mark key="'" line="389" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.6.RELEASE/spring-test-4.1.6.RELEASE-sources.jar!/org/springframework/test/context/ContextConfiguration.java" timestamp="1503472364654">
+        <mark key="'" line="88" column="18" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/service/impl/HouseServiceImpl.java" timestamp="1503491065331">
+        <mark key="'" line="67" column="63" />
+        <mark key="[" line="67" column="27" />
+        <mark key="]" line="67" column="41" />
+        <mark key="^" line="67" column="41" />
+        <mark key="." line="67" column="41" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_crm/crm-service-impl/src/main/resources/com/tujia/crm/notify/crm-notify-bean.xml" timestamp="1502456842723">
+        <mark key="'" line="7" column="66" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.0/house-vo-2.0.0.jar!/com/tujia/house/vo/houseunit/HousePicture.class" timestamp="1504002256977">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="40" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.0.0/jedis-2.0.0-sources.jar!/redis/clients/jedis/JedisPoolConfig.java" timestamp="1503318441607">
+        <mark key="'" line="24" column="42" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/commons-pool/commons-pool/1.5.6/commons-pool-1.5.6-sources.jar!/org/apache/commons/pool/impl/GenericObjectPool.java" timestamp="1503302675256">
+        <mark key="'" line="1784" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.8.4/dubbo-2.8.4.jar!/com/alibaba/dubbo/common/utils/PojoUtils.class" timestamp="1503911582326">
+        <mark key="'" line="36" column="13" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/notify/producer/HouseChangeNotifyProducer.java" timestamp="1502884783207">
+        <mark key="'" line="13" column="32" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/reflect/ReflectUtils.java" timestamp="1503042761494">
+        <mark key="'" line="111" column="23" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" timestamp="1502877904140">
+        <mark key="'" line="1155" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisPool.java" timestamp="1503302565020">
+        <mark key="'" line="184" column="7" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseSearch.java" timestamp="1503059666586">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="181" column="4" />
+        <mark key="]" line="183" column="12" />
+        <mark key="." line="183" column="12" />
+        <mark key="^" line="183" column="12" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/controller/LandlordControllerTestApi.java" timestamp="1502870266708">
+        <mark key="'" line="121" column="37" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/db-sql/HouseList.sql" timestamp="1502094142033">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-common/src/main/java/com/tujia/tns/baseinfo/common/support/ReloadablePropertySourcesPlaceholderConfigurer.java" timestamp="1503474472523">
+        <mark key="'" line="66" column="26" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/CheckinInstructions.java" timestamp="1503999682868">
+        <mark key="'" line="390" column="36" />
+        <mark key="[" line="106" column="4" />
+        <mark key="]" line="107" column="14" />
+        <mark key="^" line="107" column="14" />
+        <mark key="." line="107" column="14" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_crm/crm-controller/src/main/java/com/tujia/crm/web/controller/MongoPostmanController.java" timestamp="1502971269150">
+        <mark key="'" line="83" column="16" />
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="47" column="74" />
+        <mark key="." line="45" column="79" />
+        <mark key="^" line="121" column="55" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/utility/ApiTemplate.java" timestamp="1503906028085">
+        <mark key="'" line="57" column="22" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/resources/spring/spring-datasource.xml" timestamp="1503305997442">
+        <mark key="'" line="101" column="56" />
+        <mark key="[" line="103" column="54" />
+        <mark key="]" line="103" column="72" />
+        <mark key="^" line="103" column="72" />
+        <mark key="." line="103" column="72" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/service/HouseUnitService.java" timestamp="1503654074679">
+        <mark key="'" line="47" column="20" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="75" column="22" />
+        <mark key="." line="82" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/house/tujia-framework-house/2.2.0-SNAPSHOT/tujia-framework-house-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/house/HouseUnitEnumUtils.java" timestamp="1503548921174">
+        <mark key="'" line="562" column="84" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-common/src/main/java/com/tujia/baseinfo/common/handlers/JsonTypeHandler.java" timestamp="1502108893483">
+        <mark key="'" line="23" column="59" />
+      </file>
+      <file name="/HouseSearch.java" timestamp="1502713616496">
+        <mark key="'" line="110" column="15" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-web/src/main/resources/spring/spring-dubbo.xml" timestamp="1501742404848">
+        <mark key="'" line="14" column="49" />
+        <mark key="[" line="14" column="69" />
+        <mark key="]" line="14" column="69" />
+        <mark key="^" line="14" column="69" />
+        <mark key="." line="14" column="69" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_merchant/merchant-web/src/main/webapp/view/unit/house_images.jsp" timestamp="1504004076311">
+        <mark key="'" line="153" column="73" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/HotelSlaveDao.xml" timestamp="1502868656555">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/webapp/WEB-INF/springmvc-servlet.xml" timestamp="1503473812020">
+        <mark key="'" line="35" column="82" />
+      </file>
+      <file name="/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/utf_8.py" timestamp="1502259434164">
+        <mark key="'" line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/tujia_env.py" timestamp="1503908705879">
+        <mark key="'" line="38" column="49" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/baseinfo/model/House.java" timestamp="1502101595960">
+        <mark key="'" line="35" column="18" />
+        <mark key="[" line="55" column="29" />
+        <mark key="]" line="55" column="34" />
+        <mark key="." line="55" column="34" />
+        <mark key="^" line="55" column="34" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-common/src/main/java/com/tujia/tns/baseinfo/common/handlers/CurrencyHandler.java" timestamp="1502704416778">
+        <mark key="'" line="12" column="51" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/vo/house/HouseUnit.java" timestamp="1502371261699">
+        <mark key="'" line="21" column="21" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="129" column="14" />
+        <mark key="." line="126" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/properties/tujia-framework-properties/2.2.0-SNAPSHOT/tujia-framework-properties-2.2.0-SNAPSHOT.jar!/com/tujia/framework/properties/SystemProperties.class" timestamp="1502884574883">
+        <mark key="'" line="29" column="45" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/controller/HouseContentController.java" timestamp="1503308580656">
+        <mark key="'" line="22" column="24" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/dao/master/HouseChargeMasterDao.java" timestamp="1502361364909">
+        <mark key="'" line="28" column="6" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/redis/tujia-framework-redis/2.2.0-SNAPSHOT/tujia-framework-redis-2.2.0-SNAPSHOT.jar!/com/tujia/framework/redis/RedisTools.class" timestamp="1503319758517">
+        <mark key="'" line="301" column="8" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_framework/pom.xml" timestamp="1503040074431">
+        <mark key="'" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/enums/EnumPictureCategory.java" timestamp="1504004331556">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/baseinfo/model/house/BaseInfo.java" timestamp="1501849647030">
+        <mark key="'" line="70" column="36" />
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="47" column="20" />
+        <mark key="^" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/AcceptOrderTime.java" timestamp="1503301474127">
+        <mark key="'" line="14" column="20" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/service/HouseSearchService.java" timestamp="1503486747038">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="124" column="26" />
+        <mark key="]" line="124" column="32" />
+        <mark key="." line="124" column="32" />
+        <mark key="^" line="124" column="32" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.2.0-SNAPSHOT/house-vo-2.2.0-SNAPSHOT.jar!/com/tujia/house/vo/houseunit/HouseUnitTransReleaseVo.class" timestamp="1503654357777">
+        <mark key="'" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/notify/consumer/CrmHouseBaseinfoReceiver.java" timestamp="1503297013583">
+        <mark key="'" line="42" column="48" />
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="54" />
+        <mark key="." line="42" column="58" />
+        <mark key="^" line="42" column="58" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/vo/house/pack/HouseUnitSummary.java" timestamp="1502370724945">
+        <mark key="'" line="128" column="36" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="32" column="24" />
+        <mark key="^" line="49" column="28" />
+        <mark key="." line="49" column="28" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/datetime/bean/ShortTime.java" timestamp="1503301477046">
+        <mark key="'" line="60" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/mongo_get_unit.py" timestamp="1502711790267">
+        <mark key="'" line="25" column="30" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="20" column="56" />
+        <mark key="^" line="20" column="56" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.4/dubbo-2.5.4.jar!/com/alibaba/dubbo/rpc/filter/TokenFilter.class" timestamp="1503568765385">
+        <mark key="'" line="31" column="34" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/redis/redis-access/1.0.0-SNAPSHOT/redis-access-1.0.0-SNAPSHOT.jar!/com/tujia/redis/access/Tedis.class" timestamp="1503303744575">
+        <mark key="'" line="48" column="18" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/baseinfo/model/house/CheckinInstructions.java" timestamp="1501842088503">
+        <mark key="'" line="195" column="18" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="73" column="8" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_info_slave.xml" timestamp="1503921423931">
+        <mark key="'" line="12" column="104" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/redis/tujia-framework-redis/2.0.4/tujia-framework-redis-2.0.4.jar!/com/tujia/framework/redis/RedisTools.class" timestamp="1503318551154">
+        <mark key="'" line="22" column="39" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_house/house-service-impl/src/test/java/com/tujia/house/service/impl/HouseUnitServiceTest.java" timestamp="1503473245820">
+        <mark key="'" line="18" column="56" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/webservice/tujia-framework-webservice/2.2.0-SNAPSHOT/tujia-framework-webservice-2.2.0-SNAPSHOT.jar!/com/tujia/framework/framework-agent-bean.xml" timestamp="1503310593481">
+        <mark key="'" line="9" column="47" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_framework/tujia-framework-log4net/src/main/resources/com/tujia/framework/framework-crmlog-bean.xml" timestamp="1503908825208">
+        <mark key="'" line="8" column="82" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseCharge.java" timestamp="1503577495309">
+        <mark key="'" line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/master/HouseUnitMasterDao.xml" timestamp="1503050152785">
+        <mark key="'" line="157" column="13" />
+        <mark key="[" line="157" column="22" />
+        <mark key="]" line="158" column="7" />
+        <mark key="." line="158" column="7" />
+        <mark key="^" line="158" column="7" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-common/src/main/java/com/tujia/tns/baseinfo/common/utils/ThreadRecycles.java" timestamp="1503305816652">
+        <mark key="'" line="91" column="8" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/controller/HouseSearchController.java" timestamp="1502283382343">
+        <mark key="'" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/vo/house/BaseInfo.java" timestamp="1502369820206">
+        <mark key="'" line="40" column="38" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/service/HouseContentApiService.java" timestamp="1503027379899">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1504004214631">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-web/src/main/resources/spring-config.xml" timestamp="1501733048119">
+        <mark key="'" line="18" column="51" />
+        <mark key="[" line="16" column="60" />
+        <mark key="]" line="16" column="60" />
+        <mark key="." line="16" column="60" />
+        <mark key="^" line="16" column="70" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseCharge.java" timestamp="1502795106283">
+        <mark key="'" line="27" column="13" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/resources/spring/spring-dubbo-registry.xml" timestamp="1501742187371">
+        <mark key="'" line="13" column="83" />
+        <mark key="[" line="14" column="72" />
+        <mark key="]" line="14" column="93" />
+        <mark key="^" line="14" column="93" />
+        <mark key="." line="14" column="93" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-web/src/main/java/com/tujia/tns/baseinfo/controller/HouseRemoteController.java" timestamp="1502957314573">
+        <mark key="'" line="35" column="12" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/dao/handler/CheckinInstructionsHandler.java" timestamp="1503921430989">
+        <mark key="'" line="8" column="58" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="8" column="83" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/controller/HouseChargeController.java" timestamp="1503475619261">
+        <mark key="'" line="104" column="4" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/nio/channels/spi/SelectorProvider.java" timestamp="1502877604900">
+        <mark key="'" line="172" column="37" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/service/HotelApiService.java" timestamp="1502359308775">
+        <mark key="'" line="22" column="22" />
+        <mark key="[" line="29" column="73" />
+        <mark key="]" line="29" column="88" />
+        <mark key="^" line="29" column="88" />
+        <mark key="." line="29" column="88" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Locale.java" timestamp="1503305121319">
+        <mark key="'" line="517" column="65" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/master/house_search_master.xml" timestamp="1503060269281">
+        <mark key="'" line="120" column="10" />
+        <mark key="[" line="110" column="35" />
+        <mark key="]" line="110" column="35" />
+        <mark key="." line="110" column="35" />
+        <mark key="^" line="110" column="35" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" timestamp="1503917264494">
+        <mark key="'" line="167" column="13" />
+        <mark key="[" line="196" column="32" />
+        <mark key="]" line="196" column="32" />
+        <mark key="." line="196" column="32" />
+        <mark key="^" line="195" column="43" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/baseinfo/model/house/HouseSearch.java" timestamp="1502111366731">
+        <mark key="'" line="351" column="36" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="347" column="19" />
+        <mark key="." line="347" column="19" />
+        <mark key="^" line="347" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.0/house-vo-2.0.0.jar!/com/tujia/house/vo/houseunit/HouseIntegrationContent.class" timestamp="1504002245346">
+        <mark key="'" line="10" column="53" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_crm/crm-service-impl/src/main/resources/com/tujia/crm/service/crm-service-bean.xml" timestamp="1502456837111">
+        <mark key="'" line="16" column="61" />
+      </file>
+      <file name="/fragment.java" timestamp="1503911639438">
+        <mark key="'" line="0" column="43" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/resources/spring/spring-dubbo-provider.xml" timestamp="1503634007920">
+        <mark key="'" line="9" column="79" />
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="5" column="49" />
+        <mark key="^" line="6" column="70" />
+        <mark key="." line="5" column="49" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/validator/HouseChargeValidator.java" timestamp="1502683475051">
+        <mark key="'" line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_merchant/merchant-web/src/main/resources/i18n/message_zh_CN.properties" timestamp="1504003993899">
+        <mark key="[" line="488" column="13" />
+        <mark key="]" line="494" column="26" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/vo/hotel/HotelListQueryParamVo.java" timestamp="1502285151516">
+        <mark key="'" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/service/HotelService.java" timestamp="1502887303600">
+        <mark key="'" line="50" column="69" />
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="53" column="20" />
+        <mark key="^" line="53" column="20" />
+        <mark key="." line="53" column="20" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/notify/producer/LandlordNotifyProducer.java" timestamp="1503491052182">
+        <mark key="'" line="14" column="50" />
+        <mark key="[" line="17" column="91" />
+        <mark key="]" line="17" column="106" />
+        <mark key="." line="17" column="106" />
+        <mark key="^" line="17" column="106" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/service/LandlordApiService.java" timestamp="1502361106934">
+        <mark key="'" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mybatis-master-config.xml" timestamp="1503050554258">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="43" />
+        <mark key="." line="50" column="40" />
+        <mark key="^" line="50" column="40" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/LandlordApiServiceImpl.java" timestamp="1503578858444">
+        <mark key="'" line="83" column="81" />
+        <mark key="[" line="89" column="49" />
+        <mark key="]" line="89" column="54" />
+        <mark key="^" line="89" column="54" />
+        <mark key="." line="89" column="54" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/service/HouseSearchApiService.java" timestamp="1503913969711">
+        <mark key="'" line="52" column="40" />
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+        <mark key="^" line="34" column="12" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-service/src/main/java/com/tujia/baseinfo/service/impl/HouseSearchServiceImpl.java" timestamp="1502111262370">
+        <mark key="'" line="14" column="47" />
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/org/apache/commons/lang3/StringUtils.class" timestamp="1503307299597">
+        <mark key="'" line="31" column="21" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-service/pom.xml" timestamp="1501845468205">
+        <mark key="'" line="280" column="57" />
+        <mark key="[" line="281" column="0" />
+        <mark key="]" line="281" column="0" />
+        <mark key="." line="281" column="0" />
+        <mark key="^" line="281" column="34" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/HouseSearchSlaveDao.xml" timestamp="1503048613380">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="54" column="13" />
+        <mark key="]" line="54" column="13" />
+        <mark key="." line="54" column="13" />
+        <mark key="^" line="54" column="13" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_house/house-service-impl/src/main/java/com/tujia/house/service/impl/housestatus/HouseAuditServiceImpl.java" timestamp="1503039042490">
+        <mark key="'" line="290" column="45" />
+        <mark key="[" line="507" column="0" />
+        <mark key="]" line="507" column="96" />
+        <mark key="^" line="355" column="24" />
+        <mark key="." line="355" column="24" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/controller/HouseSearchController.java" timestamp="1502867649906">
+        <mark key="'" line="60" column="44" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="36" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.4/house-vo-2.0.4.jar!/com/tujia/house/vo/houseunit/HouseDisplayContent.class" timestamp="1503383489984">
+        <mark key="'" line="10" column="49" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/baseinfo/model/HouseList.java" timestamp="1502091748602">
+        <mark key="'" line="406" column="4" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="12" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/HashSet.java" timestamp="1502877862124">
+        <mark key="'" line="171" column="30" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/dao/slave/HouseSearchSlaveDao.java" timestamp="1503910346699">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="64" column="43" />
+        <mark key="^" line="64" column="43" />
+        <mark key="." line="64" column="43" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/api/tujia-framework-api/2.2.0-SNAPSHOT/tujia-framework-api-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/house/RegionMerchantVo.java" timestamp="1503386834670">
+        <mark key="'" line="34" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/rush_city_id.py" timestamp="1502712680852">
+        <mark key="'" line="8" column="11" />
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="12" column="56" />
+        <mark key="." line="13" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/house/tujia-framework-house/2.0.9/tujia-framework-house-2.0.9-sources.jar!/com/tujia/framework/house/HouseUnitEnumUtils.java" timestamp="1503374412577">
+        <mark key="'" line="89" column="40" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_crm/crm-controller/src/main/java/com/tujia/crm/web/controller/HouseAuditController.java" timestamp="1504000086168">
+        <mark key="'" line="581" column="64" />
+        <mark key="[" line="581" column="47" />
+        <mark key="]" line="581" column="92" />
+        <mark key="." line="575" column="12" />
+        <mark key="^" line="575" column="12" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_house_vo/src/main/java/com/tujia/house/vo/houseunit/HouseDisplayContent.java" timestamp="1503383525967">
+        <mark key="'" line="4" column="49" />
+      </file>
+      <file name="/Python Console" timestamp="1504008104446">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1504008148058">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisPoolConfig.java" timestamp="1503318356030">
+        <mark key="'" line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/content/BedInfoDesc.java" timestamp="1503299220359">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/eventbus/BaseAsyncEventBus.java" timestamp="1503490802772">
+        <mark key="'" line="37" column="27" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_framework/tujia-framework-util/src/main/java/com/tujia/framework/utility/ReflectionUtils.java" timestamp="1503042592427">
+        <mark key="'" line="19" column="62" />
+        <mark key="[" line="296" column="15" />
+        <mark key="]" line="296" column="16" />
+        <mark key="." line="296" column="16" />
+        <mark key="^" line="288" column="30" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/master/house_charge_master.xml" timestamp="1502716002968">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="74" column="15" />
+        <mark key="]" line="74" column="15" />
+        <mark key="." line="74" column="15" />
+        <mark key="^" line="174" column="13" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Set.java" timestamp="1502877851474">
+        <mark key="'" line="127" column="16" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/LandlordApiServiceImpl.java" timestamp="1502371730862">
+        <mark key="'" line="117" column="50" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/content/HouseContent.java" timestamp="1503998813615">
+        <mark key="'" line="10" column="34" />
+        <mark key="[" line="75" column="12" />
+        <mark key="]" line="75" column="19" />
+        <mark key="^" line="75" column="19" />
+        <mark key="." line="75" column="19" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/baseinfo/model/house/AcceptOrderTime.java" timestamp="1501841368791">
+        <mark key="'" line="31" column="18" />
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="43" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/util/Pool.java" timestamp="1503302572746">
+        <mark key="'" line="38" column="24" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_framework/tujia-framework-redis/src/main/java/com/tujia/framework/redis/RedisTools.java" timestamp="1503319697588">
+        <mark key="'" line="54" column="36" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_crm_vo/src/main/java/com/tujia/crm/vo/tavern/TnTavernReleaseVo.java" timestamp="1503477527745">
+        <mark key="'" line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseDetail.java" timestamp="1503998822980">
+        <mark key="'" line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/pom.xml" timestamp="1503310365865">
+        <mark key="'" line="122" column="45" />
+        <mark key="[" line="122" column="43" />
+        <mark key="]" line="122" column="47" />
+        <mark key="." line="122" column="47" />
+        <mark key="^" line="122" column="47" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/master/LandlordLogMasterDao.xml" timestamp="1502889776102">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="66" />
+        <mark key="]" line="2" column="68" />
+        <mark key="^" line="2" column="68" />
+        <mark key="." line="2" column="68" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/baseinfo/controller/HouseSearchController.java" timestamp="1502112393047">
+        <mark key="'" line="27" column="61" />
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="53" />
+        <mark key="." line="36" column="49" />
+        <mark key="^" line="36" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/base_info/test_api.py" timestamp="1502693622517">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseUnit.java" timestamp="1502805432358">
+        <mark key="'" line="212" column="11" />
+        <mark key="[" line="140" column="4" />
+        <mark key="]" line="142" column="10" />
+        <mark key="^" line="142" column="10" />
+        <mark key="." line="142" column="10" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/baseinfo/model/house/BreakfastItem.java" timestamp="1502094906457">
+        <mark key="'" line="12" column="8" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/notify/consumer/CrmTavernBaseInfoReceiver.java" timestamp="1503655118571">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="36" column="159" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspaceSet/javaWorkSpace/Main/src/main/java/com/mxuan/Main.java" timestamp="1506697619294">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="18" column="67" />
+        <mark key="^" line="18" column="67" />
+        <mark key="." line="18" column="67" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseInfo.java" timestamp="1503998846545">
+        <mark key="'" line="62" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.class" timestamp="1503909291968">
+        <mark key="'" line="1052" column="69" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.0/house-vo-2.0.0.jar!/com/tujia/house/vo/houseunit/HouseUnit.class" timestamp="1504002247035">
+        <mark key="'" line="28" column="20" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_framework/tujia-framework-house/src/main/java/com/tujia/framework/house/HouseUnitEnumUtils.java" timestamp="1503405361130">
+        <mark key="'" line="97" column="56" />
+        <mark key="[" line="96" column="12" />
+        <mark key="]" line="96" column="18" />
+        <mark key="." line="96" column="18" />
+        <mark key="^" line="96" column="18" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-service/src/main/resources/mybatis-master-config.xml" timestamp="1502109553121">
+        <mark key="'" line="58" column="73" />
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="24" column="74" />
+        <mark key="." line="24" column="74" />
+        <mark key="^" line="24" column="74" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HousePictureList.java" timestamp="1503998037660">
+        <mark key="'" line="11" column="49" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class" timestamp="1502974320427">
+        <mark key="'" line="141" column="16" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/controller/UnitController.java" timestamp="1504002242163">
+        <mark key="'" line="1133" column="8" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.2.0-SNAPSHOT/house-vo-2.2.0-SNAPSHOT.jar!/com/tujia/house/vo/houseunit/HouseDisplayContent.class" timestamp="1503654359131">
+        <mark key="'" line="10" column="41" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/web/tujia-framework-web/2.0.9/tujia-framework-web-2.0.9.jar!/com/tujia/framework/web/MethodArgumentResolverExtend.class" timestamp="1502455723165">
+        <mark key="'" line="24" column="36" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java" timestamp="1503042638913">
+        <mark key="'" line="145" column="25" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/collect/Lists.java" timestamp="1502976362466">
+        <mark key="'" line="536" column="31" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java" timestamp="1503043112351">
+        <mark key="'" line="497" column="24" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" timestamp="1504001863500">
+        <mark key="'" line="47" column="54" />
+        <mark key="[" line="159" column="39" />
+        <mark key="]" line="159" column="56" />
+        <mark key="." line="159" column="56" />
+        <mark key="^" line="159" column="56" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-common/src/main/java/com/tujia/tns/baseinfo/common/handlers/StringSetHandler.java" timestamp="1502711225694">
+        <mark key="'" line="14" column="53" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_house_vo/src/main/java/com/tujia/house/vo/houseunit/HouseIntegrationContent.java" timestamp="1502456372737">
+        <mark key="'" line="4" column="53" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/content/EnumDesc.java" timestamp="1503665028062">
+        <mark key="'" line="55" column="8" />
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.0/house-vo-2.0.0.jar!/com/tujia/house/vo/houseunit/HouseUnitEditVo.class" timestamp="1504002244401">
+        <mark key="'" line="11" column="37" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT.jar!/com/tujia/framework/api/APIResponse.class" timestamp="1502713270774">
+        <mark key="'" line="45" column="28" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT.jar!/com/tujia/framework/utility/ApiTemplate.class" timestamp="1503906619780">
+        <mark key="'" line="65" column="18" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/vo/house/CheckinInstructions.java" timestamp="1502357779515">
+        <mark key="'" line="258" column="16" />
+        <mark key="[" line="85" column="34" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspaceSet/main/src/main/java/com/mxuan/example/selector/SelectorTest.java" timestamp="1502878202044">
+        <mark key="'" line="14" column="64" />
+        <mark key="[" line="20" column="65" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/notify/consumer/CrmHouseBaseinfoApiReceiver.java" timestamp="1503654087354">
+        <mark key="[" line="7" column="80" />
+        <mark key="]" line="7" column="95" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/api/tujia-framework-api/2.2.0-SNAPSHOT/tujia-framework-api-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/house/HouseUnitEnumVo.java" timestamp="1503568151476">
+        <mark key="'" line="75" column="16" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/fl/noodlenotify/core/client/consumer/jetty/noodlenotify-core-client-consumer-jetty/2.0.0/noodlenotify-core-client-consumer-jetty-2.0.0.jar!/bean/noodlenotify-consumer-jetty.xml" timestamp="1501731130601">
+        <mark key="'" line="64" column="129" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/service/HouseApiService.java" timestamp="1503487352757">
+        <mark key="[" line="89" column="7" />
+        <mark key="]" line="90" column="12" />
+        <mark key="^" line="90" column="12" />
+        <mark key="." line="90" column="12" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/content/LocationDesc.java" timestamp="1503321531631">
+        <mark key="'" line="7" column="45" />
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="36" column="51" />
+        <mark key="^" line="36" column="51" />
+        <mark key="." line="36" column="51" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_house_vo/src/main/java/com/tujia/house/vo/houseunit/HouseUnitTransReleaseVo.java" timestamp="1503383524662">
+        <mark key="'" line="10" column="59" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseLightspot.java" timestamp="1503396054588">
+        <mark key="'" line="65" column="36" />
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="24" column="37" />
+        <mark key="." line="24" column="37" />
+        <mark key="^" line="24" column="37" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-common/src/main/java/com/tujia/tns/baseinfo/common/utils/house/HouseUnitEnumUtils.java" timestamp="1503318827101">
+        <mark key="'" line="306" column="13" />
+        <mark key="[" line="58" column="59" />
+        <mark key="]" line="58" column="83" />
+        <mark key="^" line="58" column="83" />
+        <mark key="." line="58" column="83" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/resources/spring/spring-dubbo-consume.xml" timestamp="1503911799176">
+        <mark key="[" line="12" column="118" />
+        <mark key="]" line="12" column="133" />
+        <mark key="." line="12" column="133" />
+        <mark key="^" line="12" column="133" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_house/house-service-impl/src/main/java/com/tujia/mongo/house/service/impl/HouseUnitServiceImpl.java" timestamp="1501764781293">
+        <mark key="'" line="119" column="35" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/BeanUtils.class" timestamp="1502283633401">
+        <mark key="'" line="288" column="23" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_crm/crm-service-impl/src/main/java/com/tujia/crm/service/impl/TavernTranslationServiceImpl.java" timestamp="1503477441881">
+        <mark key="'" line="56" column="53" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.jar!/org/apache/commons/pool2/impl/GenericObjectPoolConfig.class" timestamp="1503302695386">
+        <mark key="'" line="7" column="64" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_house/house-service-impl/src/main/java/com/tujia/house/service/impl/housestatus/CacheHouseTranslateAuditColumnContrastServiceImpl.java" timestamp="1503559863143">
+        <mark key="'" line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/baseinfo/model/house/HouseIntegrationContent.java" timestamp="1501764563670">
+        <mark key="'" line="13" column="38" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-common/src/main/java/com/tujia/tns/baseinfo/common/utils/BizTemplate.java" timestamp="1502884906418">
+        <mark key="'" line="29" column="55" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/master/HouseSearchMasterDao.xml" timestamp="1503048775410">
+        <mark key="'" line="149" column="41" />
+        <mark key="[" line="116" column="49" />
+        <mark key="]" line="116" column="49" />
+        <mark key="." line="116" column="49" />
+        <mark key="^" line="116" column="15" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_merchant/merchant-web/src/main/resources/i18n/message.properties" timestamp="1504004090384">
+        <mark key="[" line="487" column="0" />
+        <mark key="]" line="494" column="37" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_framework/tujia-framework-api/src/main/java/com/tujia/framework/house/HouseEnumConstants.java" timestamp="1503404036533">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="426" column="50" />
+        <mark key="]" line="427" column="13" />
+        <mark key="^" line="427" column="13" />
+        <mark key="." line="427" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.4/house-vo-2.0.4.jar!/com/tujia/house/vo/houseunit/HouseUnitTransReleaseVo.class" timestamp="1503383488529">
+        <mark key="'" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-common/src/main/java/com/tujia/tns/baseinfo/common/filters/IPFilter.java" timestamp="1503474979905">
+        <mark key="'" line="108" column="16" />
+        <mark key="[" line="37" column="56" />
+        <mark key="]" line="38" column="15" />
+        <mark key="^" line="38" column="15" />
+        <mark key="." line="38" column="15" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/api/tujia-framework-api/2.0.9/tujia-framework-api-2.0.9-sources.jar!/com/tujia/framework/house/HouseEnumConstants.java" timestamp="1503398687734">
+        <mark key="'" line="263" column="26" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/baseinfo/controller/HouseController.java" timestamp="1502112265240">
+        <mark key="'" line="35" column="71" />
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="47" />
+        <mark key="." line="53" column="83" />
+        <mark key="^" line="53" column="83" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/tns/baseinfo/model/house/CheckinInstructions.java" timestamp="1502357826291">
+        <mark key="'" line="94" column="38" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="82" column="10" />
+        <mark key="." line="82" column="10" />
+        <mark key="^" line="82" column="10" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-model/src/main/java/com/tujia/tns/baseinfo/model/house/HouseUnit.java" timestamp="1502419698115">
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="126" column="9" />
+        <mark key="]" line="126" column="14" />
+        <mark key="." line="126" column="14" />
+        <mark key="^" line="126" column="14" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/test/resources/spring-config.xml" timestamp="1503475756428">
+        <mark key="'" line="38" column="24" />
+        <mark key="[" line="39" column="62" />
+        <mark key="]" line="39" column="63" />
+        <mark key="." line="39" column="63" />
+        <mark key="^" line="19" column="3" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HotelApiServiceImpl.java" timestamp="1503577183560">
+        <mark key="'" line="72" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/mongo_poster.py" timestamp="1503999295390">
+        <mark key="'" line="192" column="9" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="247" column="61" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-web/src/main/resources/spring/spring-dubbo-consumer.xml" timestamp="1502111983779">
+        <mark key="'" line="6" column="79" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.4/house-vo-2.0.4.jar!/com/tujia/house/vo/houseunit/HouseUnit.class" timestamp="1503383499611">
+        <mark key="'" line="28" column="19" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/resources/spring/spring-notify-producer.xml" timestamp="1503491325702">
+        <mark key="'" line="30" column="14" />
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="45" column="23" />
+        <mark key="." line="45" column="23" />
+        <mark key="^" line="45" column="23" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/CheckinInstructions.java" timestamp="1502698651915">
+        <mark key="'" line="55" column="22" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_crm/crm-service-impl/src/main/java/com/tujia/crm/service/impl/TavernServiceImpl.java" timestamp="1503477600257">
+        <mark key="'" line="108" column="74" />
+      </file>
+      <file name="/HouseUnitChangeSubscriber.java" timestamp="1503558397315">
+        <mark key="'" line="66" column="19" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/service/impl/HouseChargeServiceImpl.java" timestamp="1502975111794">
+        <mark key="'" line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-common/src/main/java/com/tujia/tns/baseinfo/common/utils/ConvertBeanUtils.java" timestamp="1502804757273">
+        <mark key="'" line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/dao/handler/HouseDescHandler.java" timestamp="1502715392802">
+        <mark key="'" line="10" column="62" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-service/src/main/resources/mapper/slave/LandlordSlaveDao.xml" timestamp="1502104480869">
+        <mark key="'" line="3" column="73" />
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/base/Preconditions.java" timestamp="1502793139471">
+        <mark key="'" line="96" column="19" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_house/house-service-impl/src/main/resources/com/tujia/house/service/house-app-bean.xml" timestamp="1502701407695">
+        <mark key="'" line="17" column="58" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" timestamp="1502877886816">
+        <mark key="'" line="180" column="35" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_house_vo/src/main/java/com/tujia/house/vo/houseunit/HouseUnit.java" timestamp="1503383529631">
+        <mark key="'" line="63" column="19" />
+      </file>
+      <file name="$USER_HOME$/tujia/tujia_java_house_vo/src/main/java/com/tujia/house/vo/houseunit/HouseUnitEditVo.java" timestamp="1502456371342">
+        <mark key="'" line="10" column="58" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/enums/OperateType.java" timestamp="1504003623890">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/framework/redis/tujia-framework-redis/2.2.0-SNAPSHOT/tujia-framework-redis-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/redis/RedisTools.java" timestamp="1503548737007">
+        <mark key="'" line="32" column="26" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.0/house-vo-2.0.0.jar!/com/tujia/house/vo/houseunit/BaseInfo.class" timestamp="1504002249319">
+        <mark key="'" line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/test/java/com/tujia/tns/baseinfo/core/service/impl/HouseUnitServiceImplTest.java" timestamp="1503560401440">
+        <mark key="'" line="45" column="90" />
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="40" column="67" />
+        <mark key="." line="40" column="67" />
+        <mark key="^" line="40" column="67" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="126" column="44" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="1067" column="86" filename="$USER_HOME$/tujia/tujia_java_crm/crm-web/src/main/webapp/view/auditmanage/house-audit-edit-view.jsp" />
+      <jump line="1472" column="50" filename="$USER_HOME$/tujia/tujia_java_crm/crm-web/src/main/webapp/view/auditmanage/house-audit-edit-view.jsp" />
+      <jump line="2819" column="33" filename="$USER_HOME$/tujia/tujia_java_crm/crm-web/src/main/webapp/view/auditmanage/house-audit-edit-view.jsp" />
+      <jump line="1477" column="47" filename="$USER_HOME$/tujia/tujia_java_crm/crm-web/src/main/webapp/view/auditmanage/house-audit-edit-view.jsp" />
+      <jump line="1437" column="36" filename="$USER_HOME$/tujia/tujia_java_crm/crm-web/src/main/webapp/view/auditmanage/house-audit-edit-view.jsp" />
+      <jump line="1447" column="42" filename="$USER_HOME$/tujia/tujia_java_crm/crm-web/src/main/webapp/view/auditmanage/house-audit-edit-view.jsp" />
+      <jump line="1476" column="60" filename="$USER_HOME$/tujia/tujia_java_crm/crm-web/src/main/webapp/view/auditmanage/house-audit-edit-view.jsp" />
+      <jump line="1482" column="46" filename="$USER_HOME$/tujia/tujia_java_crm/crm-web/src/main/webapp/view/auditmanage/house-audit-edit-view.jsp" />
+      <jump line="128" column="7" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="83" column="64" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="162" column="27" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="165" column="24" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="166" column="26" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="164" column="55" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="84" column="50" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="43" column="31" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/content/EnumDesc.java" />
+      <jump line="57" column="8" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/content/EnumDesc.java" />
+      <jump line="173" column="22" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="78" column="20" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseSearchApiServiceImpl.java" />
+      <jump line="62" column="28" filename="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/utility/ApiTemplate.java" />
+      <jump line="61" column="29" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseSearchApiServiceImpl.java" />
+      <jump line="27" column="14" filename="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/utility/ApiTemplate.java" />
+      <jump line="31" column="57" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-common/src/main/java/com/tujia/tns/baseinfo/common/utils/house/HouseConvertUtils.java" />
+      <jump line="77" column="26" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseSearchApiServiceImpl.java" />
+      <jump line="86" column="12" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseSearchApiServiceImpl.java" />
+      <jump line="2" column="0" filename="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT.jar!/com/tujia/framework/utility/ApiTemplate.class" />
+      <jump line="57" column="22" filename="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT-sources.jar!/com/tujia/framework/utility/ApiTemplate.java" />
+      <jump line="62" column="30" filename="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT.jar!/com/tujia/framework/utility/ApiTemplate.class" />
+      <jump line="88" column="10" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseSearchApiServiceImpl.java" />
+      <jump line="23" column="38" filename="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT.jar!/com/tujia/framework/utility/ApiTemplate.class" />
+      <jump line="55" column="47" filename="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT.jar!/com/tujia/framework/utility/ApiTemplate.class" />
+      <jump line="60" column="24" filename="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT.jar!/com/tujia/framework/utility/ApiTemplate.class" />
+      <jump line="65" column="18" filename="$MAVEN_REPOSITORY$/com/tujia/framework/util/tujia-framework-util/2.2.0-SNAPSHOT/tujia-framework-util-2.2.0-SNAPSHOT.jar!/com/tujia/framework/utility/ApiTemplate.class" />
+      <jump line="14" column="12" filename="$USER_HOME$/tujia/tujia_java_framework/tujia-framework-webservice/src/main/java/com/tujia/framework/web/HttpHelper.java" />
+      <jump line="101" column="66" filename="$USER_HOME$/tujia/tujia_java_framework/tujia-framework-webservice/src/main/java/com/tujia/framework/web/HttpHelper.java" />
+      <jump line="8" column="82" filename="$USER_HOME$/tujia/tujia_java_framework/tujia-framework-log4net/src/main/resources/com/tujia/framework/framework-crmlog-bean.xml" />
+      <jump line="1052" column="69" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.class" />
+      <jump line="51" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/xml/XmlReaderContext.class" />
+      <jump line="182" column="24" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="190" column="24" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="175" column="51" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="3" column="84" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="94" column="64" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="95" column="78" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="96" column="70" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="97" column="70" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="98" column="63" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="99" column="72" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="36" column="13" filename="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.8.4/dubbo-2.8.4.jar!/com/alibaba/dubbo/common/utils/PojoUtils.class" />
+      <jump line="29" column="36" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseSearchApiServiceImpl.java" />
+      <jump line="472" column="71" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/service/impl/HouseSearchServiceImpl.java" />
+      <jump line="16" column="8" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="52" column="40" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/service/HouseSearchApiService.java" />
+      <jump line="130" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Date.java" />
+      <jump line="76" column="54" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseSearchApiServiceImpl.java" />
+      <jump line="33" column="30" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseSearchApiServiceImpl.java" />
+      <jump line="43" column="12" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/service/impl/HouseSearchServiceImpl.java" />
+      <jump line="167" column="13" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_search_slave.xml" />
+      <jump line="12" column="104" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/resources/mapper/slave/house_info_slave.xml" />
+      <jump line="8" column="58" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-core/src/main/java/com/tujia/tns/baseinfo/core/dao/handler/CheckinInstructionsHandler.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/test/file_read_test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/test/file_read_test.py" />
+      <jump line="58" column="13" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseInfo.java" />
+      <jump line="64" column="13" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseInfo.java" />
+      <jump line="11" column="49" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HousePictureList.java" />
+      <jump line="10" column="34" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/content/HouseContent.java" />
+      <jump line="12" column="33" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseDetail.java" />
+      <jump line="62" column="12" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/HouseInfo.java" />
+      <jump line="161" column="38" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/CheckinInstructions.java" />
+      <jump line="390" column="36" filename="$USER_HOME$/tujia/tns_baseinfo_api/baseinfo-api/src/main/java/com/tujia/tns/baseinfo/api/vo/house/CheckinInstructions.java" />
+      <jump line="39" column="15" filename="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/ota_update.py" />
+      <jump line="225" column="17" filename="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/mongo_poster.py" />
+      <jump line="111" column="11" filename="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/mongo_poster.py" />
+      <jump line="192" column="9" filename="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/mongo_poster.py" />
+      <jump line="145" column="4" filename="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/data/house_audit_time.py" />
+      <jump line="43" column="28" filename="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.0/house-vo-2.0.0.jar!/com/tujia/house/vo/houseunit/HouseUnit.class" />
+      <jump line="158" column="19" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="47" column="54" filename="$USER_HOME$/tujia/tns_baseinfo/baseinfo-provider/src/main/java/com/tujia/tns/baseinfo/provider/provider/HouseContentApiServiceImpl.java" />
+      <jump line="1144" column="61" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/controller/UnitController.java" />
+      <jump line="389" column="21" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/Util/HouseUnit/HouseUnitUtils.java" />
+      <jump line="1145" column="91" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/controller/UnitController.java" />
+      <jump line="39" column="15" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-vo/src/main/java/com/tujia/merchant/vo/web/unit/HouseImageList.java" />
+      <jump line="23" column="26" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-vo/src/main/java/com/tujia/merchant/vo/web/unit/HouseImageList.java" />
+      <jump line="1147" column="47" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/controller/UnitController.java" />
+      <jump line="1148" column="40" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/controller/UnitController.java" />
+      <jump line="1139" column="16" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/controller/UnitController.java" />
+      <jump line="1142" column="24" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/controller/UnitController.java" />
+      <jump line="1140" column="50" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/controller/UnitController.java" />
+      <jump line="1133" column="8" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-controller/src/main/java/com/tujia/merchant/web/controller/UnitController.java" />
+      <jump line="11" column="37" filename="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.0/house-vo-2.0.0.jar!/com/tujia/house/vo/houseunit/HouseUnitEditVo.class" />
+      <jump line="10" column="53" filename="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.0/house-vo-2.0.0.jar!/com/tujia/house/vo/houseunit/HouseIntegrationContent.class" />
+      <jump line="28" column="20" filename="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.0/house-vo-2.0.0.jar!/com/tujia/house/vo/houseunit/HouseUnit.class" />
+      <jump line="27" column="30" filename="$MAVEN_REPOSITORY$/com/tujia/house/vo/house-vo/2.0.0/house-vo-2.0.0.jar!/com/tujia/house/vo/houseunit/BaseInfo.class" />
+      <jump line="154" column="70" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-web/src/main/webapp/view/unit/house_images.jsp" />
+      <jump line="144" column="44" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-web/src/main/webapp/view/unit/house_images.jsp" />
+      <jump line="152" column="28" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-web/src/main/webapp/view/unit/house_images.jsp" />
+      <jump line="153" column="73" filename="$USER_HOME$/tujia/tujia_java_merchant/merchant-web/src/main/webapp/view/unit/house_images.jsp" />
+      <jump line="154" column="8" filename="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/data/house_audit_time.py" />
+      <jump line="152" column="11" filename="$USER_HOME$/workspaceSet/PythonWorkSpace/Postman/main/tujia/data/house_audit_time.py" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <text>0f&quot;lvt&quot;uj0</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>_</text>
+      </register>
+      <register name="b" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="91" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="90" code="0" mods="0" />
+          <key char="93" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="d" type="4">
+        <text>Jxj0</text>
+      </register>
+      <register name="e" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="f" type="4">
+        <text>0Jj0</text>
+      </register>
+      <register name="-" type="4">
+        <text>_</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxxdWVyeV9wYXJ0X2luZm9fd2hlcmVcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAnYWN0aXZlX3RpbWUnIGluIHJlc3VsdC5rZXlzKCk6CiAgICAgICAgICAgIGFjdGl2ZV90aW1lID0gcmVzdWx0WydhY3RpdmVfdGltZSddCiAgICAgICAgZWxzZToKICAgICAgICAgICAgYWN0aXZlX3RpbWUgPSAiIgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAndW5pdEd1aWQnIG5vdCBpbiByZXN1bHQua2V5cygpOgogICAgICAgICAgICB1bml0X2d1aWQgPSAiIgogICAgICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgYXVkaXRfdGltZSA9IHJlc3VsdFsnYXVkaXRUaW1lJ10KICAgICAgICBhY3RpdmVfdGltZSA9IHJlc3VsdFsnYWN0aXZlVGltZSddCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAnYWN0aXZlX3RpbWUnIGluIHJlc3VsdC5rZXlzKCk6CiAgICAgICAgICAgIGFjdGl2ZV90aW1lID0gcmVzdWx0WydhY3RpdmVfdGltZSddCiAgICAgICAgZWxzZToKICAgICAgICAgICAgYWN0aXZlX3RpbWUgPSAiIgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhdWRpdF90aW1lID0gcmVzdWx0WydhdWRpdFRpbWUnXQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhY3RpdmVfdGltZSA9IHJlc3VsdFsnYWN0aXZlVGltZSddCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEtpdGNoZW4oNiwgIuWOqOaIvyIpLAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxxdWVyeV9wYXJ0X2luZm9fd2hlcmVcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxxdWVyeV9wYXJ0X2luZm9fd2hlcmVcPg==</last-pattern>
+      <last-replace encoding="base64">X1xsJg==</last-replace>
+      <last-substitute>[A-Z]</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxob3VzZVVuaXRUcmFuc1JlbGVhc2VTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxIb3VzZVVuaXRTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxEVUJCT19IT1VTRV9DVVJSRU5DWV9VUERBVEVcPg==</entry>
+        <entry encoding="base64">XDxEVUJCT19RVUVSWV9IT1VTRV9JRF9CWV9DSVRZXD4=</entry>
+        <entry encoding="base64">XDxIT1VTRV9TRUFSQ0hfUVVFUllfUEFSVF9JTkZPX0JZX0NJVFlfSURcPg==</entry>
+        <entry encoding="base64">XDxob3VzZUNoYW5uZWxUeXBlXD4=</entry>
+        <entry encoding="base64">XDxob3VzZVVuaXRcPg==</entry>
+        <entry encoding="base64">XDxob3VzZU5vdGlmeVByb2R1Y2VyXD4=</entry>
+        <entry encoding="base64">XDxpblw+</entry>
+        <entry encoding="base64">XDxpcFw+</entry>
+        <entry encoding="base64">XDxQQVJBTV9SRURJU19JUFw+</entry>
+        <entry encoding="base64">XDxIb3VzZVVuaXRUcmFuc1JlbGVhc2VWb1w+</entry>
+        <entry encoding="base64">XDxob3RlbENhY2hlXD4=</entry>
+        <entry encoding="base64">XDxmYWNpbGl0eUxpc3RcPg==</entry>
+        <entry encoding="base64">XDx0aXRsZUJhclw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
+        <entry encoding="base64">XDxob3VzZVNlYXJjaFw+</entry>
+        <entry encoding="base64">XDxxdWVyeUhvdXNlU2VhcmNoXD4=</entry>
+        <entry encoding="base64">XDxjaXR5SWRcPg==</entry>
+        <entry encoding="base64">XDxxdWVyeV9wYXJ0X2luZm9fd2hlcmVcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>g/@Xml.*/d</entry>
+        <entry>g/Xml/d</entry>
+        <entry>g/^.*@Xml.*/d</entry>
+        <entry>%s/[ ]+protected[ ]_/ private /g</entry>
+        <entry>8,38%s/[A-Z]/_\0/g</entry>
+        <entry>^,38%s/[A-Z]/_\0/g</entry>
+        <entry>7,38s/[A-Z]/_\0/g</entry>
+        <entry>7,38s/[A-Z]/_\0/</entry>
+        <entry>s/[A-Z]/_\0/</entry>
+        <entry>7,38s/[A-Z]/_\0/\l</entry>
+        <entry encoding="base64">NywzOHMvW0EtWl0vX1wwL1xsJg==</entry>
+        <entry encoding="base64">NywzOHMvW0EtWl0vX1xsJi8=</entry>
+        <entry encoding="base64">NDMsNzNzL1tBLVpdL19cbCYv</entry>
+        <entry encoding="base64">OnNzLy9bW0FBLS1aWl1dLy9fX1xcbGwmJi8v</entry>
+        <entry encoding="base64">MTAsNDFzL1tBLVpdL19cbCYv</entry>
+        <entry encoding="base64">ODYsMTE3cy9bQS1aXS9fXGwmLw==</entry>
+        <entry encoding="base64">NDUsNzdzL1tBLVpdL19cbCYv</entry>
+        <entry encoding="base64">cy9bQS1aXS9fXGwmLw==</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
